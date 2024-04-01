@@ -1,5 +1,7 @@
 # Bash Scripting: Building Five Programs
 
+*Learning Documentation*
+
 This repository contains five small `Bash` programs created as part of the [freeCodeCamp's Relational Database Certification](https://www.freecodecamp.org/learn/relational-database/). Each program serves a different purpose and demonstrates various `Bash` *scripting techniques*.
 
 <p align="center">
@@ -40,7 +42,7 @@ Here you can see each program in more detail and an image showing the `script` a
 - [Fortune Teller](bash-programs/fortune/README.md)
 
 
-- [Five Program RunnerSee](bash-programs/five/README.md)
+- [Five Program Runner](bash-programs/five/README.md)
 
 
 ## Usage 
